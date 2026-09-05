@@ -94,6 +94,25 @@ The analysis identified important patterns in sales, customer purchasing behavio
 - Analyze low-performing books and identify opportunities for improvement.
 - Use sales and customer insights to support data-driven business decisions.
 
+## 📁 Project Structure
+
+text
+bookverse-retail-analytics-sql/
+- README.md
+- bookverse_analysis.sql
+- screenshots/
+## 🎓 Learning Outcome
+
+This project helped strengthen my understanding of SQL and business-oriented data analysis.
+
+I practiced using SQL queries to analyze relational data and convert the results into meaningful business insights and recommendations.
+
+## 👩‍💻 Author
+
+Geethika Dasari
+
+Aspiring Business Analyst / Data Analyst
+
 ## 📸 Analysis Results
 
 ### Top Books by Revenue
