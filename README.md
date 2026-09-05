@@ -102,3 +102,20 @@ bookverse-retail-analytics-sql/
 ├── README.md
 ├── bookverse_analysis.sql
 └── screenshots/
+## 📸 Analysis Results
+
+### Top Books by Revenue
+
+![Top Books](screenshots/top_books.png)
+
+### Revenue by Genre
+
+![Revenue by Genre](screenshots/revenue_by_genre.png)
+
+### Top Customers
+
+![Top Customers](screenshots/top_customers.png)
+
+### Monthly Revenue
+
+![Monthly Revenue](screenshots/monthly_revenue.png)
